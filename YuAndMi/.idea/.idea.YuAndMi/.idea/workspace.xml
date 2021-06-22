@@ -15,14 +15,14 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Source/YuAndMi/TestPawn.h" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/UE_4.26/Engine/Source/Runtime/AugmentedReality/Public/ARBlueprintLibrary.h" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.26/Engine/Source/Runtime/AugmentedReality/Public/ARBlueprintLibrary.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/YuAndMi/TestPawn.cpp" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://C:/UE_4.26/Engine/Source/Runtime/AugmentedReality/Private/ARBlueprintLibrary.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://C:/UE_4.26/Engine/Source/Runtime/AugmentedReality/Private/ARBlueprintLibrary.cpp" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Source/YuAndMi/TestPawn.h" />
       <option value="$PROJECT_DIR$/Source/YuAndMi/TestPawn.cpp" />
+      <option value="$PROJECT_DIR$/Source/YuAndMi/TestPawn.h" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1uGV93uGsRoTdBpLHXmgh9E3exN" />
@@ -205,7 +205,8 @@
       <updated>1624291760492</updated>
       <workItem from="1624291780981" duration="5170000" />
       <workItem from="1624317600517" duration="116000" />
-      <workItem from="1624318210663" duration="936000" />
+      <workItem from="1624318210663" duration="1601000" />
+      <workItem from="1624371095407" duration="621000" />
     </task>
     <servers />
   </component>
